@@ -11,3 +11,7 @@ A collection of Blender files to help with setting up assets from Frostbite engi
 - Battlefield V (Partially)
 
 Only SWBF2 is properly supported right now but the materials can sometimes be used in other games.
+
+# Usage
+A usage manual is provided however it requires https://obsidian.md/
+Download it and open the manual folder as a vault to view it.
