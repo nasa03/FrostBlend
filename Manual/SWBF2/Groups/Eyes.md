@@ -1,6 +1,6 @@
-![[Pasted image 20211231162358.png]]
+![[Pasted image 20220118023650.png]]
 ## Eyes
-Standard eye shader. Not reccomended to manually set up. Please use `ExampleMat - Eyes` and adjust the last 5 values to your liking.
+Standard eye shader. Not reccomended to manually set up. Please use `ExampleMat - Eyes` and adjust the last 6 values to your liking.
 
 ---
 ## Inputs
@@ -11,6 +11,8 @@ Standard eye shader. Not reccomended to manually set up. Please use `ExampleMat 
 	- DA alpha texture input.
 - **A**
 	- A texture input.
+- **A Alpha**
+	- A alpha texture input.
 - **AO**
 	- AO texture input.
 - **N**
@@ -27,3 +29,5 @@ Standard eye shader. Not reccomended to manually set up. Please use `ExampleMat 
 	- The colour of the center of the iris.
 - **Iris Outer**
 	- The colour of the outer iris.
+- **Iris Outer Ring**
+	- The colour of the very outer iris.
