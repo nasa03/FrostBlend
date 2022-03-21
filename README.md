@@ -15,3 +15,6 @@ Only SWBF2 is properly supported right now but the materials can sometimes be us
 # Usage
 A usage manual is provided however it requires https://obsidian.md/
 Download it and open the manual folder as a vault to view it.
+
+# Support Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D41TMTA)
